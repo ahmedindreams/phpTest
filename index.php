@@ -45,7 +45,9 @@ switch ($n) {
     case 12:
       echo "Go to grade $z";
       break;
-    
+
+      default:
+      echo "you are not young !!!";
 
 
   }
